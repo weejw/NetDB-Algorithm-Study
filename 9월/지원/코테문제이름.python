@@ -1,1 +1,16 @@
-
+class Solution:
+    def largestComponentSize(self, A: List[int]) -> int:
+        factor = 2
+        dic = {}
+        while len(A) > 0:
+            removeNum = []
+            for num in A:
+                if num % factor == 0:
+                    removeNum.append(num)
+                    if factor in dic:
+                        dic[factor].append(num)
+                    else:
+                        dic[factor] = [num]
+            factor += 1
+            print(A)
+        print(dic)
