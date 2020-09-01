@@ -1,0 +1,32 @@
+class Solution {
+    public int[] intersect(int[] nums1, int[] nums2) {
+        ArrayList<Integer> n1=new ArrayList<Integer>();
+        ArrayList<Integer> n2=new ArrayList<Integer>();
+        ArrayList<Integer> n3=new ArrayList<Integer>();
+        
+        for(int num1 : nums1) n1.add(num1);
+        for(int num2 : nums2) n2.add(num2);
+        if(n1.size()>n2.size()){
+            for(int k =0;k<n2.size();k++){
+                if(n1.indexOf(n2.get(k))!=-1){
+                    n3.add(n2.get(k));
+                    n1.remove(n2.get(k));
+                };
+            }
+        }else{
+            for(int k =0;k<n1.size();k++){
+                if(n2.indexOf(n1.get(k))!=-1){
+                    n3.add(n1.get(k));
+                    n2.remove(n1.get(k));
+                };
+            }
+        }
+        int[] result = new int[n3.size()];
+        int x =0;
+        for(Integer num : n3){
+            result[x]=num;
+            x++;
+        }
+        return result;
+    }
+}
