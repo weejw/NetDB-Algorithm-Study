@@ -25,7 +25,7 @@
     + [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
     + [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)
   * 5주차(추석)
-   + [minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference/) 
-   + [repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences/) *코테에 자주 등장
-   + [pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+    + [minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference/) 
+    + [repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences/) *코테에 자주 등장
+    + [pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
    
