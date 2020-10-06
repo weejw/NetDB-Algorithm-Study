@@ -1,12 +1,8 @@
 # Hello World
 본인이 작성한 코드를 업로드할 예정입니다.
-부끄러워하지마세요>.<
 
-## Hello World
- * 코드는 아래 사이트에서 풀 것입니다.!
+## 코드는 아래 사이트에서 풀 것입니다.!
  * [leetCode](https://leetcode.com/)
-
-변화된 실력을 느껴보세요! 매니땡쓰
 
 ### ✏ 9월 문제 목록
   * 1주차
@@ -26,6 +22,11 @@
     + [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)
   * 5주차(추석)
     + [minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference/) 
-    + [repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences/) *코테에 자주 등장
+    + [repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences/)
     + [pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
    
+### ✏ 10월 문제 목록
+   * 1주차
+     +[last-stone-weight](https://leetcode.com/problems/last-stone-weight/)
+     +[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)
+     +[decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index/)
