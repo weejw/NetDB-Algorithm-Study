@@ -27,6 +27,6 @@
    
 ### ✏ 10월 문제 목록
    * 1주차
-     +[last-stone-weight](https://leetcode.com/problems/last-stone-weight/)
-     +[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)
-     +[decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index/)
+     + [last-stone-weight](https://leetcode.com/problems/last-stone-weight/)
+     + [palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)
+     + [decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index/)
